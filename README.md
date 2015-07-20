@@ -78,14 +78,15 @@ Lewis and Clark Community College (IL)
 ##Skills
 Name|Last Used|Level|Years Used
 ----|---------|-----|----------
-Erlang / OTP|Current|Intermediate|1
-Ruby|Current|Entry Level|1
-Git|Current|Intermediate|2
+Erlang / OTP|Current|Intermediate|2
+Ansible|Current|Intermediate|1
+Ruby|Current|Entry Level|2
+Git|Current|Intermediate|3
 Riak|Current|Intermediate|2
-Test Driven Development|Current|Intermediate|2
-Kanban|Current|Intermediate|2
-Continuous Integration|Current|Intermediate|2
-C#|Current|Intermediate|2
+Test Driven Development|Current|Intermediate|3
+Kanban|Current|Intermediate|3
+Continuous Integration|Current|Intermediate|3
+C#|Current|Intermediate|3
 Java|2013|Intermediate|2
 Oracle PL/SQL|2012|Expert|10
 PERL|2012|Intermediate|5
