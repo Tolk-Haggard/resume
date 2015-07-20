@@ -15,7 +15,7 @@ Senior Lead Software Developer
 2013-2014 Asynchrony Solutions St. Louis, MO<br/>
 Senior Software Engineer
 
--     Developed a highly scalable Erlang server node to accept TLS connections from Sensi internet connected thermostats allowing the thermostats to be monitored and controlled remotely from mobile devices.
+-     Developed a highly scalable Erlang server node to accept TLS connections from [Sensi] (https://sensicomfort.com/) internet connected thermostats allowing the thermostats to be monitored and controlled remotely from mobile devices.
 -     Parsed custom binary protocol allowing communication with thermostat firmware through REST endpoints.
 -     Stored environmental data in a Riak database so that energy usage metrics could be gathered from internet connected thermostats.
 -     Developed extensive unit and integration tests using Eunit and Cucumber allowing for automated regression testing.
