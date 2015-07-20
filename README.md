@@ -7,8 +7,9 @@ Polyglot developer and agile enthusiast with 13 years of experience in informati
 2014-Current CenturyLink Cloud St. Louis, MO<br/>
 Senior Lead Software Developer
 
--     Managed customer object storage solution based on Riak and Riak-CS.
--     Developed Ansible scripts to deploy Docker containers.
+-     Managed legacy object storage solution based on Riak and Riak-CS.
+-     Developed multi-petabyte s3 compatible object storage solution using Bind9, Erlang and Ceph.
+-     Developed Ansible scripts to manage entire production infrastructure.
 -     Managed DNS and service discovery through Consul.
 
 2013-2014 Asynchrony Solutions St. Louis, MO<br/>
