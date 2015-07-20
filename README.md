@@ -92,11 +92,6 @@ PERL|2012|Intermediate|5
 COBOL|2007|Intermediate|7
 Oracle Forms|2007|Expert|7
 
-##Certifications
-Name|Acquired|Expires
-----|--------|-------
-COMPTIA SECURITY+ - SYSTEM SECURITY (COMPTIA)|06/20/2012|06/20/2015
-
 ##Clearances
 Level|Investigated|Granted
 -----|------------|-------
