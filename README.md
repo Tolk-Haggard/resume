@@ -68,15 +68,6 @@ Polyglot developer and agile enthusiast with 16 years of experience in informati
 - Abstract: Test driven development gets its roots from XP and is a popular development practice in most agile circles. Tests help us gain confidence in the correctness of our code, so code that is driven by tests starts life with a good deal of confidence. Or at least that is the reason many people try out TDD in the first place. Instead of focusing on whether or not the promise of error-free code is fulfilled by test driven development or exploring if the added cost of writing tests is worth the additional time, I'd like to explore with the audience how tests and the mindset of the test writer shapes the code being tested. Come for lots of code samples as we explore some of the ways that testing shapes a codebase.
 - Slides: [PDF](http://schd.ws/hosted_files/aatc2017/ed/TestDriven.pdf)
 
-## Total Years of Work Experience
-16
- 
-## Education
-
-#### 1999 - 2001
-#### Associates Degree – Database Programming
-#### Lewis and Clark Community College (IL) 
-
 ## Skills
 Name|Last Used|Level|Years Used
 ----|---------|-----|----------
@@ -87,7 +78,7 @@ Erlang / OTP|2016|Expert|3
 Ansible|Current|Expert|4
 Ruby|2016|Intermediate|3
 Git|Current|Expert|5
-Riak|2016|Expert|2
+Riak / Riak-CS|2016|Expert|2
 Test Driven Development|Current|Expert|5
 Kanban|Current|Expert|5
 Continuous Integration|Current|Expert|5
@@ -98,7 +89,16 @@ PERL|2012|Intermediate|5
 COBOL|2007|Intermediate|7
 Oracle Forms|2007|Expert|7
 
+## Total Years of Work Experience
+16 
+
 ## Clearances
 Level|Investigated|Granted
 -----|------------|-------
 SECRET|03/27/2012|04/03/2012	
+ 
+## Education
+
+#### 1999 - 2001
+#### Associates Degree – Database Programming
+#### Lewis and Clark Community College (IL)
