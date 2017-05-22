@@ -1,7 +1,7 @@
 # Brian David Haggard
 
 ## Qualifications Summary
-Polyglot developer and agile enthusiast with 13 years of experience in information technology systems development and architecture including experience in business analysis and system implementation.
+Polyglot developer and agile enthusiast with 16 years of experience in information technology systems development and architecture including experience in business analysis and system implementation.
 
 ## Work Experience
 #### 2014-Current CenturyLink Cloud St. Louis, MO
@@ -67,7 +67,7 @@ Polyglot developer and agile enthusiast with 13 years of experience in informati
 - Designed and implemented a message board system to be used internally by the company. This allowed task force groups that were spread across the company to discuss important topics in large groups without interrupting regular work habits and without the usual meeting-scheduling overhead.
 
 ## Total Years of Work Experience
-13.00
+16
  
 ## Education
 
