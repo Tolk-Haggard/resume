@@ -1,7 +1,7 @@
 # Brian David Haggard
 
 ## Qualifications Summary
-Polyglot developer and agile enthusiast with 16 years of experience in information technology systems development and architecture including experience in cloud computing and realtime data processing.
+Polyglot developer and agile enthusiast with 16 years of experience in information technology systems development and systems operations including experience in cloud computing and realtime data processing.
 
 ## Work Experience
 #### 2016-Current
