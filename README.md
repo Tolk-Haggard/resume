@@ -62,6 +62,12 @@ Polyglot developer and agile enthusiast with 16 years of experience in informati
   - Converting company internal systems from OpenVMS to Oracle Portal
   - Attempting to predict financial impact of complicated pricing changes using past financial performance
 
+## Conference Speaker Experience
+#### Agile Alliance Technical Conference 2017 - Boston, MA
+- Talk: [Test Driven](https://aatc2017.sched.com/event/9PAw/test-driven-a-deep-dive-into-how-testing-shapes-code-brian-haggard?iframe=yes&w=100%&sidebar=yes&bg=no)
+- Abstract: Test driven development gets its roots from XP and is a popular development practice in most agile circles. Tests help us gain confidence in the correctness of our code, so code that is driven by tests starts life with a good deal of confidence. Or at least that is the reason many people try out TDD in the first place. Instead of focusing on whether or not the promise of error-free code is fulfilled by test driven development or exploring if the added cost of writing tests is worth the additional time, I'd like to explore with the audience how tests and the mindset of the test writer shapes the code being tested. Come for lots of code samples as we explore some of the ways that testing shapes a codebase.
+- Slides: [PDF](http://schd.ws/hosted_files/aatc2017/ed/TestDriven.pdf)
+
 ## Total Years of Work Experience
 16
  
