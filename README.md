@@ -4,16 +4,16 @@
 Polyglot developer and agile enthusiast with 13 years of experience in information technology systems development and architecture including experience in business analysis and system implementation.
 
 ## Work Experience
-2014-Current CenturyLink Cloud St. Louis, MO
-Senior Lead Software Developer
+#### 2014-Current CenturyLink Cloud St. Louis, MO
+#### Senior Lead Software Developer
 
 - Managed legacy object storage solution based on Riak and Riak-CS.
 - Developed multi-petabyte s3 compatible object storage solution using Bind9, Erlang and Ceph.
 - Developed Ansible scripts to manage entire production infrastructure.
 - Managed DNS and service discovery through Consul.
 
-2013-2014 Asynchrony Solutions St. Louis, MO
-Senior Software Engineer
+#### 2013-2014 Asynchrony Solutions St. Louis, MO
+#### Senior Software Engineer
 
 - Developed a highly scalable Erlang server node to accept TLS connections from [Sensi](https://sensicomfort.com/) internet connected thermostats allowing the thermostats to be monitored and controlled remotely from mobile devices.
 - Parsed custom binary protocol allowing communication with thermostat firmware through REST endpoints.
@@ -23,8 +23,8 @@ Senior Software Engineer
 - Developed a diagnostics webpage using Nitrogen on top of WebMachine to assist firmware developers in testing prototype thermostats.
 - Maintained a C# WebAPI application as a business logic layer between Erlang server node and iOS / Android apps for Sensi Thermostat.
 
-2012-2013 CACI Scott AFB, IL
-Lead Software Developer
+#### 2012-2013 CACI Scott AFB, IL
+#### Lead Software Developer
 
 - Developed java web services using both CXF and Jersey.
 - Designed and populated MYSQL databases using hibernate and MYSQL stored procedures.
@@ -32,8 +32,8 @@ Lead Software Developer
 - Maintained U.S Department of Defense Secret clearance.
 - Used Agile software development processes to deliver quality software products for the Department of Defense.
 
-2008–2012 National Processing Company Louisville, KY
-Lead Applications Developer
+#### 2008–2012 National Processing Company Louisville, KY
+#### Lead Applications Developer
 
 - Maintained over 50 million merchant interchange rates; over 10 million merchant authorization rates and over 6 million miscellaneous product rates through regular monthly updates ensuring compliance with finance approved pricing initiatives.
 - Updated product assignment and pricing to entire company merchant portfolio bi-yearly to align with regulatory changes issued by Visa, MasterCard and Discover card associations.
@@ -46,9 +46,8 @@ Lead Applications Developer
 - Migrated pricing of over 100,000 merchants from TSYS back end format to First National back end format.
 - Maintained reporting for residual income streams for external sales groups.
 
-
-2001–2008 Hortica Edwardsville, IL
-Application Architect
+#### 2001–2008 Hortica Edwardsville, IL
+#### Application Architect
 
 - Designed and implemented a system with allowed our claims department to operate totally paperless. This saved resources in paper management and storage as well as streamlined work flows and allowed us to significantly lower our Xerox printing contracts.
 - Modeled and implemented several changes to a database schema for a complex rating application to allow for more normalized storage of policy information.
@@ -72,9 +71,9 @@ Application Architect
  
 ## Education
 
-Associate Degree – Database Programming
-Lewis and Clark Community College (IL)
-2001
+#### Associates Degree – Database Programming
+#### Lewis and Clark Community College (IL) 
+#### Completed 2001
 
 ## Skills
 Name|Last Used|Level|Years Used
