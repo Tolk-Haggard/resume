@@ -16,7 +16,7 @@ Polyglot developer and agile enthusiast with 16 years of experience in informati
 #### 2014-2016
 #### CenturyLink Cloud - St. Louis, MO
 #### Senior Lead Software Developer
-- Product: S3 Compatable Cloud Storage
+- Product: [S3 Compatable Cloud Storage](https://www.ctl.io/object-storage/)
 - Primary Tech/Languages: Ceph, Riak, Erlang, Go, Ansible, Consul, Bind
 - Biggest Challenges:
   - Building a customer facing cloud service
