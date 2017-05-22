@@ -78,15 +78,18 @@ Polyglot developer and agile enthusiast with 16 years of experience in informati
 ## Skills
 Name|Last Used|Level|Years Used
 ----|---------|-----|----------
-Erlang / OTP|Current|Intermediate|2
-Ansible|Current|Intermediate|1
-Ruby|Current|Entry Level|2
-Git|Current|Intermediate|3
-Riak|Current|Intermediate|2
-Test Driven Development|Current|Intermediate|3
-Kanban|Current|Intermediate|3
-Continuous Integration|Current|Intermediate|3
-C#|Current|Intermediate|3
+AWS|Current|Intermediate|1
+NodeJS|Current|Entry Level|1
+Go|Current|Intermediate|2
+Erlang / OTP|2016|Expert|3
+Ansible|Current|Expert|4
+Ruby|2016|Intermediate|3
+Git|Current|Expert|5
+Riak|2016|Expert|2
+Test Driven Development|Current|Expert|5
+Kanban|Current|Expert|5
+Continuous Integration|Current|Expert|5
+C#|Current|Intermediate|4
 Java|2013|Intermediate|2
 Oracle PL/SQL|2012|Expert|10
 PERL|2012|Intermediate|5
@@ -97,5 +100,3 @@ Oracle Forms|2007|Expert|7
 Level|Investigated|Granted
 -----|------------|-------
 SECRET|03/27/2012|04/03/2012	
-
-
