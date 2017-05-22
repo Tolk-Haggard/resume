@@ -4,10 +4,18 @@
 Polyglot developer and agile enthusiast with 16 years of experience in information technology systems development and architecture including experience in business analysis and system implementation.
 
 ## Work Experience
-#### 2014-Current
-#### CenturyLink Cloud St. Louis, MO
-#### Senior Lead Software Developer
+#### 2016-Current
+#### Emerson - St. Louis, MO
+#### Principal Agile Engineer
+- Product: [Sensi Comfort Monitoring](http://www.mycomfortguard.com/)
+- Primary Tech/Languages: Go, NodeJS, AWS, Ansible
+- Biggest Challenges:
+  - Horizonally scaling real time analysis of HVAC sensor data
+  - Rapidly prototyping products for an emerging market
 
+#### 2014-2016
+#### CenturyLink Cloud - St. Louis, MO
+#### Senior Lead Software Developer
 - Product: S3 Compatable Cloud Storage
 - Primary Tech/Languages: Ceph, Riak, Erlang, Go, Ansible, Consul, Bind
 - Biggest Challenges:
@@ -16,7 +24,7 @@ Polyglot developer and agile enthusiast with 16 years of experience in informati
   - Automating all the things
 
 #### 2013-2014
-#### Asynchrony Solutions St. Louis, MO
+#### Asynchrony Solutions - St. Louis, MO
 #### Senior Software Engineer
 - Product: Backing Services for [Sensi](https://sensicomfort.com/) Wi-Fi Connected Thermostats
 - Primary Tech/Languages: Erlang, C#, Riak
@@ -26,9 +34,8 @@ Polyglot developer and agile enthusiast with 16 years of experience in informati
   - Management of customer relationships and expectations
 
 #### 2012-2013
-#### CACI Scott AFB, IL
+#### CACI - Scott AFB, IL
 #### Lead Software Developer
-
 - Product: Classified
 - Primary Tech/Languages: Java, CXF, Jersey, Hibernate, MySQL, Vaadin
 - Biggest Challenges:
@@ -36,9 +43,8 @@ Polyglot developer and agile enthusiast with 16 years of experience in informati
   - Managing team relationships on a team composed of multiple contracting companies
 
 #### 2008–2012
-#### National Processing Company Louisville, KY
+#### National Processing Company - Louisville, KY
 #### Lead Applications Developer
-
 - Product: Management of Merchant Interchange Rates
 - Primary Tech/Languages: Oracle DB, SQL
 - Biggest Challenges:
@@ -47,9 +53,8 @@ Polyglot developer and agile enthusiast with 16 years of experience in informati
   - Attempting to predict financial impact of complicated pricing changes using past financial performance
 
 #### 2001–2008
-#### Hortica Edwardsville, IL
+#### Hortica - Edwardsville, IL
 #### Application Architect
-
 - Product: Internal Information Systems
 - Primary Tech/Languages: Oracle PL/SQL, Oracle Forms, COBOL, Perl
 - Biggest Challenges:
