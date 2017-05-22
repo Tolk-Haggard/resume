@@ -4,7 +4,8 @@
 Polyglot developer and agile enthusiast with 16 years of experience in information technology systems development and architecture including experience in business analysis and system implementation.
 
 ## Work Experience
-#### 2014-Current CenturyLink Cloud St. Louis, MO
+#### 2014-Current
+#### CenturyLink Cloud St. Louis, MO
 #### Senior Lead Software Developer
 
 - Managed legacy object storage solution based on Riak and Riak-CS.
@@ -12,7 +13,8 @@ Polyglot developer and agile enthusiast with 16 years of experience in informati
 - Developed Ansible scripts to manage entire production infrastructure.
 - Managed DNS and service discovery through Consul.
 
-#### 2013-2014 Asynchrony Solutions St. Louis, MO
+#### 2013-2014
+#### Asynchrony Solutions St. Louis, MO
 #### Senior Software Engineer
 
 - Developed a highly scalable Erlang server node to accept TLS connections from [Sensi](https://sensicomfort.com/) internet connected thermostats allowing the thermostats to be monitored and controlled remotely from mobile devices.
@@ -23,7 +25,8 @@ Polyglot developer and agile enthusiast with 16 years of experience in informati
 - Developed a diagnostics webpage using Nitrogen on top of WebMachine to assist firmware developers in testing prototype thermostats.
 - Maintained a C# WebAPI application as a business logic layer between Erlang server node and iOS / Android apps for Sensi Thermostat.
 
-#### 2012-2013 CACI Scott AFB, IL
+#### 2012-2013
+#### CACI Scott AFB, IL
 #### Lead Software Developer
 
 - Developed java web services using both CXF and Jersey.
@@ -32,7 +35,8 @@ Polyglot developer and agile enthusiast with 16 years of experience in informati
 - Maintained U.S Department of Defense Secret clearance.
 - Used Agile software development processes to deliver quality software products for the Department of Defense.
 
-#### 2008–2012 National Processing Company Louisville, KY
+#### 2008–2012
+#### National Processing Company Louisville, KY
 #### Lead Applications Developer
 
 - Maintained over 50 million merchant interchange rates; over 10 million merchant authorization rates and over 6 million miscellaneous product rates through regular monthly updates ensuring compliance with finance approved pricing initiatives.
@@ -46,7 +50,8 @@ Polyglot developer and agile enthusiast with 16 years of experience in informati
 - Migrated pricing of over 100,000 merchants from TSYS back end format to First National back end format.
 - Maintained reporting for residual income streams for external sales groups.
 
-#### 2001–2008 Hortica Edwardsville, IL
+#### 2001–2008
+#### Hortica Edwardsville, IL
 #### Application Architect
 
 - Designed and implemented a system with allowed our claims department to operate totally paperless. This saved resources in paper management and storage as well as streamlined work flows and allowed us to significantly lower our Xerox printing contracts.
@@ -71,9 +76,9 @@ Polyglot developer and agile enthusiast with 16 years of experience in informati
  
 ## Education
 
+#### 1999 - 2001
 #### Associates Degree – Database Programming
 #### Lewis and Clark Community College (IL) 
-#### Completed 2001
 
 ## Skills
 Name|Last Used|Level|Years Used
