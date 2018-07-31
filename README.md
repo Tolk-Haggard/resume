@@ -49,7 +49,7 @@ Lead Software Developer**
   - Agile inside the DoD
   - Managing team relationships on a team composed of multiple contracting companies
 
-**2008 – 2012\
+**2008 - 2012\
 National Processing Company - Louisville, KY\
 Lead Applications Developer**
 * Product: Management of Merchant Interchange Rates
@@ -59,7 +59,7 @@ Lead Applications Developer**
   * Coordinating evolving pricing changes to over 60 million distinct merchant interchange rates
   * Attempting to predict financial impact of complicated pricing changes using past financial performance
 
-**2001 – 2008\
+**2001 - 2008\
 Hortica - Edwardsville, IL\
 Application Architect**
 - Product: Internal Information Systems
