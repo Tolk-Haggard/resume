@@ -13,11 +13,12 @@ Principal Agile Engineer**
 * Biggest Challenges:
   * Building a product out of existing services with a minimal (under $100 a month) infrastructure footprint
   * Bootstrapping a small team to release version 1 of a new product in just over 4 months
-* Product: [Sensi Comfort Monitoring](http://www.mycomfortguard.com/)
-* Primary Tech/Languages: Go, NodeJS, AWS, Ansible
-* Biggest Challenges:
-  * Horizonally scaling real time analysis of HVAC sensor data
-  * Rapidly prototyping products for an emerging market
+
+- Product: [Sensi Comfort Monitoring](http://www.mycomfortguard.com/)
+- Primary Tech/Languages: Go, NodeJS, AWS, Ansible
+- Biggest Challenges:
+  - Horizonally scaling real time analysis of HVAC sensor data
+  - Rapidly prototyping products for an emerging market
 
 **2014 - 2016\
 CenturyLink Cloud - St. Louis, MO\
