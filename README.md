@@ -9,20 +9,20 @@ Polyglot developer and agile enthusiast with 17 years of experience in informati
 Emerson - St. Louis, MO\
 Principal Agile Engineer**
 * Product: [Sensi Manager](https://sensi.emerson.com/en-us/products/multiple-thermostat-manager)
-* Primary Tech/Languages: Angular
+* Primary Tech/Languages: Angular, AWS
 * Biggest Challenges:
   * Building a product out of existing services with a minimal (under $100 a month) infrastructure footprint
   * Bootstrapping a small team to release version 1 of a new product in just over 4 months
 
 - Product: [Sensi Comfort Monitoring](http://www.mycomfortguard.com/)
-- Primary Tech/Languages: Go, NodeJS, AWS, Ansible
+- Primary Tech/Languages: Go, NodeJS, AWS, Ansible, Docker
 - Biggest Challenges:
   - Horizonally scaling real time analysis of HVAC sensor data
   - Rapidly prototyping products for an emerging market
 
 **2014 - 2016\
 CenturyLink Cloud - St. Louis, MO\
-Senior Lead Software Developer***
+Senior Lead Software Developer**
 - Product: [S3 Compatable Cloud Storage](https://www.ctl.io/object-storage/)
 - Primary Tech/Languages: Ceph, Riak, Erlang, Go, Ansible, Consul, Bind
 - Biggest Challenges:
@@ -90,8 +90,10 @@ NodeJS|Current|Entry Level|2
 Go|Current|Intermediate|2
 Erlang / OTP|2016|Expert|3
 Ansible|Current|Expert|5
-Ruby|2016|Intermediate|3
+Docker|Current|Intermediate|2
 Git|Current|Expert|6
+Ruby|2016|Intermediate|3
+Ceph|2016|Entry Level|1
 Riak / Riak-CS|2016|Expert|2
 Test Driven Development|Current|Expert|6
 Kanban|Current|Expert|6
