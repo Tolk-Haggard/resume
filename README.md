@@ -4,24 +4,24 @@
 Polyglot developer and agile enthusiast with 17 years of experience in information technology systems development and systems operations including experience in cloud computing and realtime data processing.
 
 ## Work Experience
-#### 2016-Current
-#### Emerson - St. Louis, MO
-#### Principal Agile Engineer
-- Product: [Sensi Manager](https://sensi.emerson.com/en-us/products/multiple-thermostat-manager)
-- Primary Tech/Languages: Angular
-- Biggest Challenges:
-  - Building a product out of existing services with a minimal (under $100 a month) infrastructure footprint
-  - Bootstrapping a small team to release version 1 of a new product in just over 4 months
 
-- Product: [Sensi Comfort Monitoring](http://www.mycomfortguard.com/)
-- Primary Tech/Languages: Go, NodeJS, AWS, Ansible
-- Biggest Challenges:
-  - Horizonally scaling real time analysis of HVAC sensor data
-  - Rapidly prototyping products for an emerging market
+**2016 - Current\
+Emerson - St. Louis, MO\
+Principal Agile Engineer**
+* Product: [Sensi Manager](https://sensi.emerson.com/en-us/products/multiple-thermostat-manager)
+* Primary Tech/Languages: Angular
+* Biggest Challenges:
+  * Building a product out of existing services with a minimal (under $100 a month) infrastructure footprint
+  * Bootstrapping a small team to release version 1 of a new product in just over 4 months
+* Product: [Sensi Comfort Monitoring](http://www.mycomfortguard.com/)
+* Primary Tech/Languages: Go, NodeJS, AWS, Ansible
+* Biggest Challenges:
+  * Horizonally scaling real time analysis of HVAC sensor data
+  * Rapidly prototyping products for an emerging market
 
-#### 2014-2016
-#### CenturyLink Cloud - St. Louis, MO
-#### Senior Lead Software Developer
+**2014 - 2016\
+CenturyLink Cloud - St. Louis, MO\
+Senior Lead Software Developer***
 - Product: [S3 Compatable Cloud Storage](https://www.ctl.io/object-storage/)
 - Primary Tech/Languages: Ceph, Riak, Erlang, Go, Ansible, Consul, Bind
 - Biggest Challenges:
@@ -29,38 +29,38 @@ Polyglot developer and agile enthusiast with 17 years of experience in informati
   - Competing with AWS S3
   - Automating all the things
 
-#### 2013-2014
-#### Asynchrony Solutions - St. Louis, MO
-#### Senior Software Engineer
-- Product: Backing Services for [Sensi](https://sensicomfort.com/) Wi-Fi Connected Thermostats
-- Primary Tech/Languages: Erlang, C#, Riak
-- Biggest Challenges:
-  - Interacting with custom binary protocol
-  - Scaling on a budget appropiate for an IoT device
-  - Management of customer relationships and expectations
+**2013 - 2014\
+Asynchrony Solutions - St. Louis, MO\
+Senior Software Engineer**
+* Product: Backing Services for [Sensi](https://sensicomfort.com/) Wi-Fi Connected Thermostats
+* Primary Tech/Languages: Erlang, C#, Riak
+* Biggest Challenges:
+  * Interacting with custom binary protocol
+  * Scaling on a budget appropiate for an IoT device
+  * Management of customer relationships and expectations
 
-#### 2012-2013
-#### CACI - Scott AFB, IL
-#### Lead Software Developer
+**2012 - 2013\
+CACI - Scott AFB, IL\
+Lead Software Developer**
 - Product: Classified
 - Primary Tech/Languages: Java, CXF, Jersey, Hibernate, MySQL, Vaadin
 - Biggest Challenges:
   - Agile inside the DoD
   - Managing team relationships on a team composed of multiple contracting companies
 
-#### 2008–2012
-#### National Processing Company - Louisville, KY
-#### Lead Applications Developer
-- Product: Management of Merchant Interchange Rates
-- Primary Tech/Languages: Oracle DB, SQL
-- Biggest Challenges:
-  - Working with 800+ interchange catagories, 300,000+ merchants and a few hundred different pricing structures
-  - Coordinating evolving pricing changes to over 60 million distinct merchant interchange rates
-  - Attempting to predict financial impact of complicated pricing changes using past financial performance
+**2008 – 2012\
+National Processing Company - Louisville, KY\
+Lead Applications Developer**
+* Product: Management of Merchant Interchange Rates
+* Primary Tech/Languages: Oracle DB, SQL
+* Biggest Challenges:
+  * Working with 800+ interchange catagories, 300,000+ merchants and a few hundred different pricing structures
+  * Coordinating evolving pricing changes to over 60 million distinct merchant interchange rates
+  * Attempting to predict financial impact of complicated pricing changes using past financial performance
 
-#### 2001–2008
-#### Hortica - Edwardsville, IL
-#### Application Architect
+**2001 – 2008\
+Hortica - Edwardsville, IL\
+Application Architect**
 - Product: Internal Information Systems
 - Primary Tech/Languages: Oracle PL/SQL, Oracle Forms, COBOL, Perl
 - Biggest Challenges:
@@ -69,7 +69,7 @@ Polyglot developer and agile enthusiast with 17 years of experience in informati
   - Attempting to predict financial impact of complicated pricing changes using past financial performance
 
 ## Conference Speaker Experience
-### Agile Maine Day 2018 - Portland, ME
+#### Agile Maine Day 2018 - Portland, ME
 - Talk [Bootstrapping A Great Agile Team](http://www.agilemaineday.com/schedule/bootstrapping-a-great-agile-team/)
 - Abstract: Great teams make great software products. Much of agile focuses on how to make existing teams better, but what are the best practices for starting a new team… and did I mention we have to have an MVP of our product out the door in about 4 months? Join me as I tell a tail of Red Bull fueled productivity, about how a team of five came together to apply the latest development practices, UI design, and technology into a product our users loved in just under 4 months time. I’ll cover our thoughts on Team size, Embedded UX, TDD, Angular, Redux, FP vs OOP, Product Ownership, ShuHaRi, Conway’s law, and cloud computing in AWS.
 - Speaker Bio: [Agile Maine Site](http://www.agilemaineday.com/speakers/brian-haggard/)
