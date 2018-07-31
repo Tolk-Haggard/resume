@@ -112,7 +112,6 @@ Level|Investigated|Granted
 SECRET|03/27/2012|04/03/2012	
  
 ## Education
-
-#### 1999 - 2001
-#### Associates Degree – Database Programming
-#### Lewis and Clark Community College (IL)
+**1999 - 2001\
+Associates Degree - Database Programming\
+Lewis and Clark Community College (IL)**
