@@ -11,7 +11,7 @@ Principal Agile Engineer**
 - Product: [Sensi Predict](https://sensi.emerson.com/en-us/products/sensi-predict)
 - Primary Tech/Languages: Go, NodeJS, AWS, Ansible, Docker, Angular
 - Biggest Challenges:
-  - Horizonally scaling real time analysis of HVAC sensor data
+  - Horizontally scaling real time analysis of HVAC sensor data
   - Rapidly prototyping products for an emerging market
 
 - Product: [Sensi Smart Thermostat](https://sensi.emerson.com/en-us/products/touch-thermostat)
@@ -29,7 +29,7 @@ Principal Agile Engineer**
 **2014 - 2016\
 CenturyLink Cloud - St. Louis, MO\
 Senior Lead Software Developer**
-- Product: [S3 Compatable Cloud Storage](https://www.ctl.io/object-storage/)
+- Product: [S3 Compatible Cloud Storage](https://www.ctl.io/object-storage/)
 - Primary Tech/Languages: Ceph, Riak, Erlang, Go, Ansible, Consul, Bind
 - Biggest Challenges:
   - Building a customer facing cloud service
@@ -43,7 +43,7 @@ Senior Software Engineer**
 - Primary Tech/Languages: Erlang, C#, Riak
 - Biggest Challenges:
   - Interacting with custom binary protocol
-  - Scaling on a budget appropiate for an IoT device
+  - Scaling on a budget appropriate for an IoT device
   - Management of customer relationships and expectations
 
 **2012 - 2013\
@@ -61,7 +61,7 @@ Lead Applications Developer**
 - Product: Management of Merchant Interchange Rates
 - Primary Tech/Languages: Oracle DB, SQL
 - Biggest Challenges:
-  - Working with 800+ interchange catagories, 300,000+ merchants and a few hundred different pricing structures
+  - Working with 800+ interchange categories, 300,000+ merchants and a few hundred different pricing structures
   - Coordinating evolving pricing changes to over 60 million distinct merchant interchange rates
   - Attempting to predict financial impact of complicated pricing changes using past financial performance
 
