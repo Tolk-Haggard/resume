@@ -1,24 +1,30 @@
 # Brian David Haggard
 
 ## Qualifications Summary
-Polyglot developer and agile enthusiast with 17 years of experience in information technology systems development and systems operations including experience in cloud computing and realtime data processing.
+Polyglot developer and agile enthusiast with 18 years of experience in information technology systems development and systems operations including experience in cloud computing and realtime data processing.
 
 ## Work Experience
 
 **2016 - Current\
 Emerson - St. Louis, MO\
 Principal Agile Engineer**
-* Product: [Sensi Manager](https://sensi.emerson.com/en-us/products/multiple-thermostat-manager)
-* Primary Tech/Languages: Angular, AWS
-* Biggest Challenges:
-  * Building a product out of existing services with a minimal (under $100 a month) infrastructure footprint
-  * Bootstrapping a small team to release version 1 of a new product in just over 4 months
-
-- Product: [Sensi Comfort Monitoring](http://www.mycomfortguard.com/)
-- Primary Tech/Languages: Go, NodeJS, AWS, Ansible, Docker
+- Product: [Sensi Predict](https://sensi.emerson.com/en-us/products/sensi-predict)
+- Primary Tech/Languages: Go, NodeJS, AWS, Ansible, Docker, Angular
 - Biggest Challenges:
   - Horizonally scaling real time analysis of HVAC sensor data
   - Rapidly prototyping products for an emerging market
+
+- Product: [Sensi Smart Thermostat](https://sensi.emerson.com/en-us/products/touch-thermostat)
+- Primary Tech/Languages: NodeJS, AWS, Ansible, Docker, Android/Kotlin, iOS/Swift
+- Biggest Challenges:
+  - Aligning multiple tech stacks and teams to release features that spanned from mobile apps all the way to end user IoT devices
+  - Promoting agile best practices and customer focused product development across the software organization
+
+- Product: [Sensi Manager](https://sensi.emerson.com/en-us/products/multiple-thermostat-manager)
+- Primary Tech/Languages: Angular, AWS
+- Biggest Challenges:
+  - Building a product out of existing services with a minimal (under $100 a month) infrastructure footprint
+  - Bootstrapping a small team to release version 1 of a new product in just over 4 months
 
 **2014 - 2016\
 CenturyLink Cloud - St. Louis, MO\
@@ -33,12 +39,12 @@ Senior Lead Software Developer**
 **2013 - 2014\
 Asynchrony Solutions - St. Louis, MO\
 Senior Software Engineer**
-* Product: Backing Services for [Sensi](https://sensicomfort.com/) Wi-Fi Connected Thermostats
-* Primary Tech/Languages: Erlang, C#, Riak
-* Biggest Challenges:
-  * Interacting with custom binary protocol
-  * Scaling on a budget appropiate for an IoT device
-  * Management of customer relationships and expectations
+- Product: Backing Services for [Sensi Wi-Fi Connected Thermostats](https://sensi.emerson.com/en-us/products/wifi-thermostat)
+- Primary Tech/Languages: Erlang, C#, Riak
+- Biggest Challenges:
+  - Interacting with custom binary protocol
+  - Scaling on a budget appropiate for an IoT device
+  - Management of customer relationships and expectations
 
 **2012 - 2013\
 CACI - Scott AFB, IL\
@@ -52,12 +58,12 @@ Lead Software Developer**
 **2008 - 2012\
 National Processing Company - Louisville, KY\
 Lead Applications Developer**
-* Product: Management of Merchant Interchange Rates
-* Primary Tech/Languages: Oracle DB, SQL
-* Biggest Challenges:
-  * Working with 800+ interchange catagories, 300,000+ merchants and a few hundred different pricing structures
-  * Coordinating evolving pricing changes to over 60 million distinct merchant interchange rates
-  * Attempting to predict financial impact of complicated pricing changes using past financial performance
+- Product: Management of Merchant Interchange Rates
+- Primary Tech/Languages: Oracle DB, SQL
+- Biggest Challenges:
+  - Working with 800+ interchange catagories, 300,000+ merchants and a few hundred different pricing structures
+  - Coordinating evolving pricing changes to over 60 million distinct merchant interchange rates
+  - Attempting to predict financial impact of complicated pricing changes using past financial performance
 
 **2001 - 2008\
 Hortica - Edwardsville, IL\
@@ -84,20 +90,22 @@ Application Architect**
 ## Skills
 Name|Last Used|Level|Years Used
 ----|---------|-----|----------
-Angular 6|Current|Intermediate|1
-AWS|Current|Expert|2
-NodeJS|Current|Entry Level|2
+Angular 7|Current|Intermediate|2
+AWS|Current|Expert|3
+NodeJS|Current|Intermediate|3
 Go|Current|Intermediate|2
 Erlang / OTP|2016|Expert|3
 Ansible|Current|Expert|5
 Docker|Current|Intermediate|2
-Git|Current|Expert|6
+Git|Current|Expert|7
+Android / Kotlin|Current|Entry Level|1
+iOS / Swift|Current|Entry Level|1
 Ruby|2016|Intermediate|3
 Ceph|2016|Entry Level|1
 Riak / Riak-CS|2016|Expert|2
-Test Driven Development|Current|Expert|6
-Kanban|Current|Expert|6
-Continuous Integration|Current|Expert|6
+Test Driven Development|Current|Expert|7
+Kanban|Current|Expert|7
+Continuous Integration|Current|Expert|7
 C#|2017|Intermediate|4
 Java|2013|Intermediate|2
 Oracle PL/SQL|2012|Expert|10
