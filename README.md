@@ -7,7 +7,7 @@ Polyglot developer and agile enthusiast with 18 years of experience in informati
 
 **2016 - Current\
 Emerson - St. Louis, MO\
-Principal Agile Engineer**
+Senior Engineering Manager / Principal Agile Engineer**
 - Product: [Sensi Predict](https://sensi.emerson.com/en-us/products/sensi-predict)
 - Primary Tech/Languages: Go, NodeJS, AWS, Ansible, Docker, Angular
 - Biggest Challenges:
