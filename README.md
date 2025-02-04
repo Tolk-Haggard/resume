@@ -8,9 +8,9 @@ Formerly a Polyglot developer and agile enthusiast with 18 years of experience i
 ## Work Experience
 
 **2016 - Current\
-Copeland (Formerly part of Emerson Electric) - St. Louis, MO**
+Copeland (Formerly part of Emerson Electric) - St. Louis, MO\
+Technical Director - Software Solutions**
 
-**Technical Director - Software Solutions**
 - Key Responsibilities
   - Managing $5MM annual in software budgets working with Finance to submit annual budgets, update forecasts monthly, and approve incoming invoices
   - Hire and retain in-demand software engineers with experience in modern cloud native software engineering
@@ -34,23 +34,22 @@ Copeland (Formerly part of Emerson Electric) - St. Louis, MO**
       - [St. Louis Spring 2023 Homecoming](https://www.youtube.com/watch?v=z8-vZsghkG0)
 
 **Principal Agile Engineer**
+
 - Product: [Sensi Smart Thermostat](https://sensi.copeland.com/en-us/products/wifi-thermostat)
-- Primary Tech/Languages: NodeJS, AWS, Ansible, Docker, Android/Kotlin, iOS/Swift
-- Biggest Challenges:
-  - Aligning multiple tech stacks and teams to release features that spanned from mobile apps all the way to end user IoT devices
-  - Promoting agile best practices and customer focused product development across the software organization
-
+  - Primary Tech/Languages: NodeJS, AWS, Ansible, Docker, Android/Kotlin, iOS/Swift
+  - Biggest Challenges:
+    - Aligning multiple tech stacks and teams to release features that spanned from mobile apps all the way to end user IoT devices
+    - Promoting agile best practices and customer focused product development across the software organization
 - Product: [Sensi Manager](https://sensi.copeland.com/en-us/products/multiple-thermostat-manager)
-- Primary Tech/Languages: Angular, AWS
-- Biggest Challenges:
-  - Building a product out of existing services with a minimal (under $100 a month) infrastructure footprint
-  - Bootstrapping a small team to release version 1 of a new product in just over 4 months
-
+  - Primary Tech/Languages: Angular, AWS
+  - Biggest Challenges:
+    - Building a product out of existing services with a minimal (under $100 a month) infrastructure footprint
+    - Bootstrapping a small team to release version 1 of a new product in just over 4 months 
 - Product: Sensi Predict - Sunset in 2024
-- Primary Tech/Languages: Go, NodeJS, AWS, Ansible, Docker, Angular
-- Biggest Challenges:
-  - Horizontally scaling real time analysis of HVAC sensor data
-  - Rapidly prototyping products for an emerging market
+  - Primary Tech/Languages: Go, NodeJS, AWS, Ansible, Docker, Angular
+  - Biggest Challenges:
+    - Horizontally scaling real time analysis of HVAC sensor data
+    - Rapidly prototyping products for an emerging market
 
 **2014 - 2016\
 CenturyLink Cloud - St. Louis, MO\
