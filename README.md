@@ -98,7 +98,6 @@ Application Architect**
 - Biggest Challenges:
   - Converting our entire claims department from paper to completely digital workflows
   - Converting company internal systems from OpenVMS to Oracle Portal
-  - Attempting to predict financial impact of complicated pricing changes using past financial performance
 
 ## Conference Speaker Experience
 #### Agile Maine Day 2018 - Portland, ME
